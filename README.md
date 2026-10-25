@@ -1,4 +1,4 @@
-# Storage Estimator - Main Version
+# Storage Estimator
 
 ## Purpose
 Converts storage entered in GB into MB and KB.
